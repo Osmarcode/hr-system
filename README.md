@@ -1,5 +1,5 @@
 Foi desenvolvida uma aplicação web baseada em microsserviços do zero de um sistema web para uma microempresa de recursos humanos.
-Foram criadas algumas APIs Rest usando Java com Spring Boot 2.x.x e banco de dados H2 em memória. 
+Neste curso pude praticar a criação de algumas APIs Rest usando Java com Spring Boot 2.x.x e banco de dados H2 em memória. 
 Foi utilizado JPA com Hibernate, validação de dados, tratamento de exceções, 
 foi tuilizado protocolo HTTP no padrão REST, realizado balanceamento de cargas nas APIs umload balancing, uso de OpenFeign para integração entre os microserviços,
 centralizar requisições usando um API Gateway.
